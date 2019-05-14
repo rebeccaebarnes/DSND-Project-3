@@ -1,5 +1,5 @@
 # Identify Customer Segments with Arvato
-This project was completed as part of the course requirements of Udacity's [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) certification.
+This project was completed as part of the course requirements of Udacity's [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) certification. If you find it helpful and want to reference it later, please consider forking the repo rather than cloning. 
 
 ## Overview
 The project used a proprietary data set of German population data and customer data from a mail-order company to be able to identify under- and overrepresentation of customer segments between the two populations. 
